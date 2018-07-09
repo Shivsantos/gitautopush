@@ -1,7 +1,7 @@
 #!/bin/sh
 cd /home/vagrant/git/gitautopush
 cat > gitpush.txt <<EOF
-Job Success 0056
+Job Success 00
 EOF
 
 git add .
